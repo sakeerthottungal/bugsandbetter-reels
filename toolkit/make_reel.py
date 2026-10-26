@@ -68,3 +68,14 @@ def render(q,name,fps=30,wps=4.0,hold=2.0):
         im.save(f"{d}/f{f:05d}.png")
     subprocess.run(["ffmpeg","-y","-loglevel","error","-framerate",str(fps),"-i",f"{d}/f%05d.png","-c:v","libx264","-pix_fmt","yuv420p","-r",str(fps),name],check=True)
     im.save("last.png")
+FOLLOW="// New leadership truth daily"
+s_=open(__file__).read()
+
+def add_sound(video, out, hold=2.0, sound="assets/typing.mp3"):
+    """Mix typing sound under the typing part only (silent during the final hold)."""
+    import subprocess
+    dur=float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",video]).decode())
+    typ=max(0.5,dur-hold)
+    subprocess.run(["ffmpeg","-y","-loglevel","error","-i",video,"-stream_loop","-1","-i",sound,
+        "-filter_complex",f"[1:a]atrim=0:{typ:.2f},afade=t=out:st={max(0,typ-0.3):.2f}:d=0.3,volume=0.9,apad[a]",
+        "-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","128k","-t",f"{dur:.2f}",out],check=True)
