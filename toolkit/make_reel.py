@@ -62,13 +62,13 @@ def render(q,name,fps=30,wps=4.0,hold=2.0):
             a=int(255*t)
             l=LOGO.copy();al=l.split()[3].point(lambda v:v*t);l.putalpha(al)
             im.paste(l,((W-l.width)//2,H-330),l)
-            for txt,fs,fill,yy in((HANDLE,28,90,H-260),("// New leadership truth daily",28,70,H-210)):
+            for txt,fs,fill,yy in((HANDLE,28,90,H-260),("// New truth daily",28,70,H-210)):
                 ft=ImageFont.truetype(FD+"DejaVuSansMono.ttf",fs);tw=dr.textlength(txt,font=ft)
                 c=int(fill*t*1.0);dr.text(((W-tw)//2,yy),txt,font=ft,fill=(c,c,c))
         im.save(f"{d}/f{f:05d}.png")
     subprocess.run(["ffmpeg","-y","-loglevel","error","-framerate",str(fps),"-i",f"{d}/f%05d.png","-c:v","libx264","-pix_fmt","yuv420p","-r",str(fps),name],check=True)
     im.save("last.png")
-FOLLOW="// New leadership truth daily"
+FOLLOW="// New truth daily"
 s_=open(__file__).read()
 
 def add_sound(video, out, hold=2.0, sound="assets/typing.mp3"):
