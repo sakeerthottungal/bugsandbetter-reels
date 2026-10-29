@@ -15,3 +15,9 @@ Bottom 3: Overthinking 14 and 12 views (duplicate), Anxiety 27, Simplicity 30. S
 Winners share: a failure/setback word, reframing hook ("X is not Y"), CTA to a specific person who is struggling. Avg watch time still 3-7s (Starting Over best at 7.5s). Saves/shares remain rare.
 Rules for today: (1) setback/fear angles with a person-specific CTA ("Send this to someone who..."); (2) keep quote ~30 words, strong first line. Topics: Perfectionism, Criticism.
 Note: posts at 04:00-06:00 and 13:00-16:00 UTC all did similarly, no clear time winner.
+
+## 2026-10-29 (14-day analytics, 20 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/99 (3.0%, 139 views), Rejection 3/106 (2.8%, 129 views), Failure 16/1041 (1.5%, 1207 views). Kindness 2/118 and Discipline 2/134 follow.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Anxiety 27, Simplicity 30. Criticism (29 views) and Slow Progress (6) are under 24h old, ignore.
+Winners share: a setback/fear word, "X is not Y" reframe, and the CTA "Send this to someone who..." (all 3 top posts). "Save this for..." CTAs got 0 saves almost everywhere. Avg watch time 3-5s (Starting Over 7.5s, best); retention column empty.
+Rules for today: (1) use "Send this to someone who..." CTA only, aimed at a specific struggling person; (2) setback/self-judgment angles (Regret, Being Misunderstood), quote ~35 words with a short "But" line.
