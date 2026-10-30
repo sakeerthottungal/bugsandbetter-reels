@@ -3,3 +3,4 @@ Mentorship, Communication, Decision Making, Trust, Feedback, Humility, Courage, 
 Rejection, Slow Progress
 Perfectionism, Criticism
 Regret, Being Misunderstood
+Imposter Syndrome, Uncertainty
