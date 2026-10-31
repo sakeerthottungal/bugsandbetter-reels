@@ -4,3 +4,4 @@ Rejection, Slow Progress
 Perfectionism, Criticism
 Regret, Being Misunderstood
 Imposter Syndrome, Uncertainty
+People-Pleasing, Self-Sabotage

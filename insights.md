@@ -27,3 +27,9 @@ Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 143 views), Rejection 
 Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views (posted 14:05 UTC, a flop), Anxiety 27, Simplicity 30.
 Winners share: self-judgment or setback word (perfectionism, rejection, criticism, failure), "X is not Y" reframe, and a person-specific "Send this to someone who..." CTA (a "Save this for..." CTA only worked once, on Criticism). Avg watch time 3-5s, retention column still empty.
 Rules for today: (1) self-judgment/fear angles (Imposter Syndrome, Uncertainty) with a "Send this to someone who..." CTA; (2) keep the "But" line short, quote ~35 words, no abstract concept topics (Slow Progress style).
+
+## 2026-10-31 (14-day analytics, 23 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 143 views), Rejection 3/107 (2.8%, 130 views), Criticism 2/125 (1.6%, 185 views). Failure 16/1041 (1.5%) still leads on views (1207). Imposter Syndrome is the best newer reel on views (228) and watch time (6.1s) but 0 saves/shares. Regret 1/123, Misunderstood 0/126.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Uncertainty (12 views) is under 24h, ignore.
+Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Avg watch time 3-6s; retention column still empty. Misc: "Save this for..." CTA is weak.
+Rules for today: (1) self-judgment topics where people blame themselves (People-Pleasing, Self-Sabotage) with a "Send this to someone who..." CTA; (2) keep quote ~33 words, short "But" line, no abstract concepts.
