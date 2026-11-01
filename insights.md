@@ -39,3 +39,6 @@ Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 144 views), Rejection 
 Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Retention column still empty; avg watch 3-6s.
 Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. "Save this for..." CTAs weak.
 Rules for today: (1) self-judgment topics people privately beat themselves up over (Guilt, Embarrassment) with a "Send this to someone who..." CTA; (2) quote ~30 words, short "But" line, no abstract concepts.
+
+## 2026-11-01 audio finding
+Old typing_reel audio was almost inaudible (peak -34 dB, mean -59 dB), so reels were effectively silent. Fixed in toolkit/make_reel.py add_sound: typing normalized (loudnorm) plus soft ambient pad (assets/ambient.mp3, synthesized, royalty-free), mean about -21 dB. Rule: after any change, check volumedetect mean is above -30 dB. Compare reach of reels from 11-01 on against earlier ones.
