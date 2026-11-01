@@ -76,8 +76,8 @@ def add_sound(video, out, hold=2.0, sound="assets/typing.mp3", music="assets/amb
     import subprocess
     dur=float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",video]).decode())
     typ=max(0.5,dur-hold)
-    fc=(f"[1:a]atrim=0:{typ:.2f},highpass=f=200,loudnorm=I=-17:TP=-2:LRA=7,afade=t=out:st={max(0,typ-0.3):.2f}:d=0.3,apad[t];"
-        f"[2:a]atrim=0:{dur:.2f},afade=t=out:st={max(0,dur-1.2):.2f}:d=1.2,volume=0.9[m];"
+    fc=(f"[1:a]atrim=0:{typ:.2f},highpass=f=200,loudnorm=I=-32:TP=-8:LRA=7,afade=t=out:st={max(0,typ-0.3):.2f}:d=0.3,apad[t];"
+        f"[2:a]atrim=0:{dur:.2f},afade=t=out:st={max(0,dur-1.2):.2f}:d=1.2,volume=1.3[m];"
         f"[t][m]amix=inputs=2:normalize=0:duration=longest,alimiter=limit=0.9[a]")
     subprocess.run(["ffmpeg","-y","-loglevel","error","-i",video,"-stream_loop","-1","-i",sound,"-stream_loop","-1","-i",music,
         "-filter_complex",fc,"-map","0:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","128k","-t",f"{dur:.2f}",out],check=True)
