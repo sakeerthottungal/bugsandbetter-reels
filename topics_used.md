@@ -6,3 +6,4 @@ Regret, Being Misunderstood
 Imposter Syndrome, Uncertainty
 People-Pleasing, Self-Sabotage
 Guilt, Embarrassment
+Jealousy, Resentment

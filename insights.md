@@ -42,3 +42,9 @@ Rules for today: (1) self-judgment topics people privately beat themselves up ov
 
 ## 2026-11-01 audio finding
 Old typing_reel audio was almost inaudible (peak -34 dB, mean -59 dB), so reels were effectively silent. Fixed in toolkit/make_reel.py add_sound: typing normalized (loudnorm) plus soft ambient pad (assets/ambient.mp3, synthesized, royalty-free), mean about -21 dB. Rule: after any change, check volumedetect mean is above -30 dB. Compare reach of reels from 11-01 on against earlier ones.
+
+## 2026-11-02 (14-day analytics, 26 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 3/107 (2.8%, 130 views), Self-sabotage 2/115 (1.7%, 143 views). Criticism 2/125 (1.6%) and Failure 16/1041 (1.5%, 1207 views) follow; Failure still leads views by 5x. Imposter Syndrome best recent on views (235) and watch time (5.95s), 0 saves/shares.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Embarrassment (155 views, 1 save) and Guilt (131, 0) are under 24h or just past it, so incomplete.
+Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Avg watch time on the louder-audio reels (11-01) is 3.2-3.4s, not better than before; retention column still empty. Audio alone has not moved watch time yet.
+Rules for today: (1) hidden-feeling topics people judge themselves for (Jealousy, Resentment), "Send this to someone who..." CTA; (2) quote ~30 words, shortest possible "But" line, strong first 2 seconds.
