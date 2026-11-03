@@ -48,3 +48,9 @@ Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 
 Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Embarrassment (155 views, 1 save) and Guilt (131, 0) are under 24h or just past it, so incomplete.
 Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Avg watch time on the louder-audio reels (11-01) is 3.2-3.4s, not better than before; retention column still empty. Audio alone has not moved watch time yet.
 Rules for today: (1) hidden-feeling topics people judge themselves for (Jealousy, Resentment), "Send this to someone who..." CTA; (2) quote ~30 words, shortest possible "But" line, strong first 2 seconds.
+
+## 2026-11-03 (14-day analytics, 26 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 3/107 (2.8%, 130 views), Self-sabotage 2/115 (1.7%, 143 views). Failure 16/1043 (1.5%, 1210 views) still leads views 5x. Imposter Syndrome best recent watch time (5.9s, 236 views) and Starting Over 7.5s, both 0 saves.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Jealousy (132 views) and Resentment (128) are 0 saves/shares so far; Resentment under 24h.
+Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Retention column still empty; avg watch 3-4s on recent reels, no lift from louder audio yet. Views plateau around 130-170 on all non-Failure reels.
+Rules for today: (1) topics about feeling stuck or unseen where someone privately worries they are behind (Being Overlooked, Starting Late), with a "Send this to someone who..." CTA; (2) ~32 words, shortest "But" line, action line with 3 verbs.

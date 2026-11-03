@@ -7,3 +7,4 @@ Imposter Syndrome, Uncertainty
 People-Pleasing, Self-Sabotage
 Guilt, Embarrassment
 Jealousy, Resentment
+Being Overlooked, Starting Late
