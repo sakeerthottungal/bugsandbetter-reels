@@ -8,3 +8,4 @@ People-Pleasing, Self-Sabotage
 Guilt, Embarrassment
 Jealousy, Resentment
 Being Overlooked, Starting Late
+Asking for Help, Fear of Judgment
