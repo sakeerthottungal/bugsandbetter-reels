@@ -9,3 +9,4 @@ Guilt, Embarrassment
 Jealousy, Resentment
 Being Overlooked, Starting Late
 Asking for Help, Fear of Judgment
+Fear of Change, Waiting for Permission

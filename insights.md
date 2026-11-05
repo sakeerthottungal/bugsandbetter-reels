@@ -60,3 +60,9 @@ Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 
 Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Being Overlooked (134 views, 0 saves) and Resentment (129, 0) weak on saves. Retention column still empty; avg watch 3-4s, views plateau 130-150.
 Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Imposter hook was a short "X is not proof" noun line (best watch time).
 Rules for today: (1) self-protective fears people hide (Asking for Help, Fear of Judgment) with "Send this to someone who..." CTA; (2) short punchy hook word at the end of line 1, ~33 words, short "But" line.
+
+## 2026-11-05 (14-day analytics, 26 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 3/107 (2.8%, 130 views), Starting Late 2/117 (1.7%, 152 views) and Self-sabotage 2/115 (1.7%). Failure still leads views (1210 earlier). Imposter Syndrome best watch time of recent (5.9s, 236 views), 0 saves.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Fear of Judgment (128 views, 0 saves) and Asking for Help (132, 1 save, <24h) incomplete. Retention column still empty; avg watch 3-4s, views plateau 130-150.
+Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA, short noun hook.
+Rules for today: (1) action-blocking fears (Fear of Change, Waiting for Permission) with "Send this to someone who..." CTA; (2) very short "But" line (<=7 words), reels ~6-7s to lift avg watch share.
