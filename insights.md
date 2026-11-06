@@ -66,3 +66,10 @@ Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 
 Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Fear of Judgment (128 views, 0 saves) and Asking for Help (132, 1 save, <24h) incomplete. Retention column still empty; avg watch 3-4s, views plateau 130-150.
 Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA, short noun hook.
 Rules for today: (1) action-blocking fears (Fear of Change, Waiting for Permission) with "Send this to someone who..." CTA; (2) very short "But" line (<=7 words), reels ~6-7s to lift avg watch share.
+
+## 2026-11-06 (14-day analytics, 29 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 3/107 (2.8%, 130 views), Starting Late 2/118 (1.7%, 153 views) and Self-sabotage 2/115 (1.7%). Best views/watch time: Imposter Syndrome 236 views, 5.9s; Criticism 187 views, 5.1s.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxiety 27. Waiting for Permission (84 views) is under 24h, ignore. Fear of Change 134 views, 1 save; Fear of Judgment 130, 0.
+Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Since 11-03 nothing earned more than 1 save/share and views sit at 130-150; inner-fear topics seem saturated. Retention column still empty; avg watch 3-3.5s on recent reels (older Imposter/Criticism 5-6s had a very short noun hook).
+Rules for today: (1) shift from inner-fear topics to relational/leadership-in-action angles (Hard Conversations, Feeling Stuck) with "Send this to someone who..." CTA; (2) reels ~6.5s, "But" line <=5 words, action line 3 verbs. Compare views against the 130-150 plateau.
+Monthly cap: about 10 reels published 11-01..11-05, 12 after today; the 20/month free-plan cap hits around 11-10.
