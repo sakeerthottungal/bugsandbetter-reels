@@ -11,3 +11,4 @@ Being Overlooked, Starting Late
 Asking for Help, Fear of Judgment
 Fear of Change, Waiting for Permission
 Hard Conversations, Feeling Stuck
+Diwali (greeting, 2026-11-06)
