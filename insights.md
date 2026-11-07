@@ -73,3 +73,10 @@ Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7 views, Anxie
 Winners share: self-judgment/setback word, "X is not Y" reframe, "Send this to someone who..." CTA. Since 11-03 nothing earned more than 1 save/share and views sit at 130-150; inner-fear topics seem saturated. Retention column still empty; avg watch 3-3.5s on recent reels (older Imposter/Criticism 5-6s had a very short noun hook).
 Rules for today: (1) shift from inner-fear topics to relational/leadership-in-action angles (Hard Conversations, Feeling Stuck) with "Send this to someone who..." CTA; (2) reels ~6.5s, "But" line <=5 words, action line 3 verbs. Compare views against the 130-150 plateau.
 Monthly cap: about 10 reels published 11-01..11-05, 12 after today; the 20/month free-plan cap hits around 11-10.
+
+## 2026-11-07 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Hard Conversations 3/107 (2.8%, 153 views, under 24h at pull), Rejection 3/107 (2.8%, 130 views). Feeling Stuck 3/131 (2.3%, 173 views) and Starting Late 2/118 (1.7%) follow. Best views/watch: Imposter Syndrome 236 views, 5.9s; Criticism 187, 5.1s.
+Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7, Anxiety 27. Retention column still empty; avg watch 3-4s.
+Winners share: action/relational topics from the last two days (Hard Conversations, Feeling Stuck) got 3 saves each, better than the inner-fear run (0-1 saves). Hooks: short "X is not Y" noun reframe, "Send this to someone who..." CTA, plus a blunt cost line ("Silence usually costs more...").
+Rules for today: (1) leadership-in-action topics (Delegation, Bad News) with a cost-style "But" line and "Send this to someone who..." CTA; (2) ~6s reel, "But" line <=5 words, 3-verb action line.
+Monthly cap: roughly 14 reels published 11-01..11-06 (2 per day), plus today's 2 = 16; the 20/month free-plan cap is near (about 11-09).
