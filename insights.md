@@ -80,3 +80,10 @@ Bottom 3: Overthinking 14 and 12 views (duplicate), Slow Progress 7, Anxiety 27.
 Winners share: action/relational topics from the last two days (Hard Conversations, Feeling Stuck) got 3 saves each, better than the inner-fear run (0-1 saves). Hooks: short "X is not Y" noun reframe, "Send this to someone who..." CTA, plus a blunt cost line ("Silence usually costs more...").
 Rules for today: (1) leadership-in-action topics (Delegation, Bad News) with a cost-style "But" line and "Send this to someone who..." CTA; (2) ~6s reel, "But" line <=5 words, 3-verb action line.
 Monthly cap: roughly 14 reels published 11-01..11-06 (2 per day), plus today's 2 = 16; the 20/month free-plan cap is near (about 11-09).
+
+## 2026-11-08 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Hard Conversations 3/109 (2.8%, 158 views), Delegation 3/107 (2.8%, 152 views, ~1 day old) and Rejection 3/107 (2.8%). Feeling Stuck 3/133 (2.3%, 180 views) is the best on views among recent ones.
+Bottom 3: Slow Progress 7 views, Anxiety 27, Uncertainty 92 / Disappointment 96 (0 saves). Bad News (126 views, 1 save) is only ~11h old, ignore. Retention column still empty; avg watch 3-4s on recent reels (Imposter 5.9s, Disappointment 5.2s, Criticism 5.1s older).
+Winners share: relational/action topics (hard talks, delegation, feeling stuck, perfectionism) with a cost-style "But" line and "Send this to someone who..." CTA; abstract or inner-fear-only topics sit at 0-1 saves. Views plateau 125-180.
+Rules for today: (1) keep leadership-in-action topics (Accountability, Giving Credit) with a short cost-style "But" line; (2) ~6s reel, 3-verb action line, "Send this to someone who..." CTA. Hook kept under 29 chars so it does not wrap.
+Monthly cap: 14 reels published 11-01..11-07; today's 2 make 16 of 20 free-plan posts for November.

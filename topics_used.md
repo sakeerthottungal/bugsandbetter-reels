@@ -13,3 +13,4 @@ Fear of Change, Waiting for Permission
 Hard Conversations, Feeling Stuck
 Diwali (greeting, 2026-11-06)
 Delegation, Bad News (2026-11-07)
+Accountability, Giving Credit (2026-11-08)
