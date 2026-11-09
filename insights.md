@@ -87,3 +87,10 @@ Bottom 3: Slow Progress 7 views, Anxiety 27, Uncertainty 92 / Disappointment 96 
 Winners share: relational/action topics (hard talks, delegation, feeling stuck, perfectionism) with a cost-style "But" line and "Send this to someone who..." CTA; abstract or inner-fear-only topics sit at 0-1 saves. Views plateau 125-180.
 Rules for today: (1) keep leadership-in-action topics (Accountability, Giving Credit) with a short cost-style "But" line; (2) ~6s reel, 3-verb action line, "Send this to someone who..." CTA. Hook kept under 29 chars so it does not wrap.
 Monthly cap: 14 reels published 11-01..11-07; today's 2 make 16 of 20 free-plan posts for November.
+
+## 2026-11-09 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Perfectionism 3/101 (3.0%, 145 views), Rejection 3/107 (2.8%, 130 views), Delegation 3/107 (2.8%, 154 views) and Hard Conversations 3/109 (2.8%, 158 views). Feeling Stuck 3/134 (2.2%, 181 views) best of recent on views. Best watch time: Imposter Syndrome 5.9s, Criticism 5.1s, Disappointment 5.2s; Delegation 4.3s best of recent.
+Bottom 3: Slow Progress 7 views, Anxiety 27, Uncertainty 92 / Disappointment 96 (0 saves). Accountability (169 views, 0 saves) and Giving Credit (133, 0) are under 24h, ignore. Retention column still empty.
+Winners share: relational/action topics (hard talks, delegation, stuck, perfectionism) with a cost-style "But" line and "Send this to someone who..." CTA. Views plateau 125-180.
+Rules for today: (1) keep relational leadership-in-action topics (Listening, Setting Expectations) with a cost-style "But" line; (2) ~6s reel, "But" line <=5 words, 3-verb action line, hook under 29 chars so it does not wrap (Clarity is not control fixed a wrapping hook).
+Monthly cap: 17 reels published 11-01..11-08; today's 2 make 19 of 20 free-plan posts for November. Cap is reached after tomorrow's first reel.
