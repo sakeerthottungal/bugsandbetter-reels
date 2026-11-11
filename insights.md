@@ -101,3 +101,10 @@ Bottom 3: Slow Progress 7 views, Uncertainty 92 views, Clarity 92 views (<24h, i
 Winners share: relational/action topics (hard talks, delegation, stuck, perfectionism) with a cost-style "But" line and "Send this to someone who..." CTA. Last 3 days (Accountability, Giving Credit, Listening, Clarity) got 0-1 saves: the "team soft-skill" angle is saturating.
 Rules for today: (1) pick tension-heavy topics where people feel a real cost (Conflict, Pressure) with a blunt "But" line <=5 words; (2) ~7s reel, hook under 29 chars, last line short enough not to orphan a word.
 Monthly cap: 19 reels published 11-01..11-09; the 11-10 morning reel is the 20th of 20 free-plan posts. The evening reel may be rejected.
+
+## 2026-11-11 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/105 (3.8%, 140 views, ~1 day old, best yet), Perfectionism 3/101 (3.0%, 147 views), Delegation 3/108 (2.8%, 156 views); Hard Conversations 3/110 and Feeling Stuck 3/134 follow. Best watch time: Imposter 5.9s, Criticism 5.1s, Conflict 4.8s.
+Bottom 3: Uncertainty 92 views, Clarity 116 views/0 saves (98 reach), Giving Credit and Accountability 0 saves. Listening 210 views (best views) but 1 save.
+Winners share: tension/cost topics (conflict, hard talks, delegation, perfectionism) with a blunt cost line and "Send this to someone who..." CTA; soft-skill "team" topics get 0 saves. Retention column still empty.
+Rules for today: (1) keep tension topics where someone feels a real cost (Difficult People, Low Energy), blunt "But" line <=5 words; (2) ~7s, 3-verb action line under 28 chars so it does not wrap (fixed "kind." orphan).
+Monthly cap: 20 reels published 11-01..11-10 (2/day); the free-plan cap of 20 is reached, so today's scheduling may be rejected.
