@@ -108,3 +108,10 @@ Bottom 3: Uncertainty 92 views, Clarity 116 views/0 saves (98 reach), Giving Cre
 Winners share: tension/cost topics (conflict, hard talks, delegation, perfectionism) with a blunt cost line and "Send this to someone who..." CTA; soft-skill "team" topics get 0 saves. Retention column still empty.
 Rules for today: (1) keep tension topics where someone feels a real cost (Difficult People, Low Energy), blunt "But" line <=5 words; (2) ~7s, 3-verb action line under 28 chars so it does not wrap (fixed "kind." orphan).
 Monthly cap: 20 reels published 11-01..11-10 (2/day); the free-plan cap of 20 is reached, so today's scheduling may be rejected.
+
+## 2026-11-12 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/105 (3.8%, 140 views, 4.8s watch), Perfectionism 3/101 (3.0%), Delegation 3/108 (2.8%, 156 views); Hard Conversations 3/110 and Feeling Stuck 3/134 follow. Best watch time: Imposter 5.9s, Criticism 5.1s, Conflict 4.8s.
+Bottom 3: Clarity 0 saves (118 views, 2.9s), Giving Credit 0, Accountability 0. Uncertainty 92 views. Difficult People (128 views, 0 saves, ~17h) and Low Energy (125, 1 save, ~10h) are under 24h, ignore. Retention column still empty; views plateau 125-180.
+Winners share: tension/cost topics with a blunt cost line and "Send this to someone who..." CTA; soft-skill team topics sit at 0 saves.
+Rules for today: (1) keep tension topics with a felt cost (Being Wrong, Being Busy), "But" line <=5 words; (2) ~6.4s reel, hook under 29 chars, 3-verb action line, "Send this to someone who..." CTA.
+Monthly cap: analytics list 22 reels posted 11-01..11-11 (incl. Diwali greeting), so Metricool is evidently not blocking at 20; today's 2 may still be rejected.
