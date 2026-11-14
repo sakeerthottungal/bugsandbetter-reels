@@ -123,3 +123,10 @@ Winners share: tension/cost topics with a blunt cost line and "Send this to some
 Rules applied today: (1) prepared reels (Apologizing, Shortcuts) kept the blunt cost "But" line (<=5 words) and use "Send this to someone who..." CTAs only, no "Save this for"; (2) ~6.8s reels, 3-verb action line.
 Note: the 11-13 reels were built in an earlier run (committed 11-12) but never scheduled; this run scheduled them (09:00 and 19:30 Dubai) instead of making duplicates.
 Monthly cap: 24 reels posted 11-01..11-12 and Metricool accepted today's two, so the 20/month cap is not enforced as feared.
+
+## 2026-11-14 (14-day analytics, 28 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/105 (3.8%, 140 views, 4.8s watch), Delegation 3/108 (2.8%, 156 views), Hard Conversations 3/111 (2.7%, 166 views); Feeling Stuck 3/134 (2.2%, 182 views). Best views: Being Wrong 269 (1 save), Listening 211. Apologizing has the best watch time (7.5s) but 0 saves, ~23h old.
+Bottom 3: Clarity 0 saves (2.9s), Giving Credit 0 (3.2s), Accountability 0 (3.3s). Low Energy and Being Busy ("Save this for" CTA) 0-1 saves; Shortcuts (135 views, ~18h) incomplete. Retention column still empty.
+Winners share: tension/cost topics (conflict, hard talks, delegation) with a blunt cost "But" line and "Send this to someone who..." CTA; "Save this for..." CTAs and soft-skill team topics stay weak.
+Rules for today: (1) tension topics with a felt social cost (Ego, Gossip), "But" line <=5 words; (2) "Send this to someone who..." CTA only, ~6.9s reel, 3-verb action line.
+Monthly cap: 28 reels posted in November so far and Metricool keeps accepting, so the 20/month cap is not enforced on this account.
