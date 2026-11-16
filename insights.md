@@ -137,3 +137,11 @@ Bottom 3: Clarity 0 saves (2.9s), Giving Credit 0 (3.2s), Accountability 0 (3.3s
 Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; "Save this for..." CTAs and soft-skill team topics stay weak.
 Applied today: the Silence (am) and Overpromising (pm) reels, built 11-14 under the same rules ("But" line <=5 words, 3-verb action line, "Send this to someone who..." CTA), were scheduled 09:00 and 19:30 Dubai instead of making duplicates (they had not been scheduled).
 Monthly cap: 30 reels in November before today; Metricool keeps accepting, so the 20/month cap is not enforced on this account.
+
+## 2026-11-16 (14-day analytics, 27 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/106 (3.8%, 141 views, 4.8s watch), Delegation 3/109 (2.8%, 157 views), Hard Conversations 3/112 (2.7%, 168 views); Feeling Stuck 3/135 (2.2%, 183 views) follows. Best views: Being Wrong 274 (1 save), Listening 212. Apologizing best watch time (7.3s) but 0 saves.
+Bottom 3: Clarity 0 saves (2.9s), Giving Credit 0 (3.2s), Accountability 0 (3.3s). Silence (133 views) and Overpromising (122) are under 24h, ignore. "Save this for..." CTAs (Shortcuts, Being Busy, Low Energy) 0-1 saves again. Retention column still empty.
+Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
+Applied today: prepared Micromanaging (am) and Multitasking (pm) reels (built 11-15 under these rules: "But" line <=5 words, 3-verb action line, "Send this to someone who..." CTA only) were scheduled 09:00 and 19:30 Dubai instead of making duplicates.
+Rules for next run: (1) tension topics with a felt cost; (2) keep "Send this to someone who..." CTA, <40 words.
+Monthly cap: 32+ reels in November, Metricool keeps accepting; the 20/month cap is not enforced.
