@@ -152,3 +152,11 @@ Bottom 3: Clarity 0 saves (2.9s), Giving Credit 0 (3.2s), Accountability 0 (3.3s
 Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
 Rules applied today: (1) tension topics with a felt cost (Blame, Complaining) with a short "But" line (<=6 words); (2) "Send this to someone who..." CTA only, <40 words, ~6.5s reel, 3-verb action line.
 Monthly cap: 34+ reels in November; Metricool keeps accepting, cap not enforced.
+
+## 2026-11-18 (14-day analytics, 27 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/107 (3.7%, 142 views, 4.7s watch), Delegation 3/109 (2.8%, 157 views), Hard Conversations 3/112 (2.7%); Feeling Stuck 3/135 (2.2%). Best views: Being Wrong 275, Micromanaging 254 (1 save), Blame 243 (1 save, ~20h old). Apologizing best watch time (7.3s), 0 saves.
+Bottom 3: Clarity 0 saves (2.9s), Giving Credit 0 (3.2s), Accountability 0 (3.2s). Multitasking (137, 0 saves) and Complaining (128, ~13h) incomplete. "Save this for" CTAs (Shortcuts, Being Busy, Low Energy) 0-1 saves. Retention column still empty.
+Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
+Rules applied: (1) tension topics with a felt cost (Stubbornness, Overexplaining), "But" line <=5 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.5s reel, 3-verb action line.
+Note: the 11-18 slots (Excuses, Rushing) were already scheduled by an earlier run, so this run built and scheduled the 11-19 pair instead of duplicating.
+Monthly cap: 36+ reels in November, Metricool keeps accepting; cap not enforced.
