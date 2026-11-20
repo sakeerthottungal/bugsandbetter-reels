@@ -168,3 +168,11 @@ Winners share: tension/cost topics with a blunt cost "But" line and "Send this t
 Rules applied: (1) tension topics with a felt cost (Cynicism, Impatience), "But" line <=6 words; (2) "Send this to someone who..." CTA only, <40 words, 6.2s reel, 3-verb action line.
 Note: the 11-19 slots (Stubbornness, Overexplaining) were already scheduled, so this run built and scheduled the 11-20 pair instead of duplicating.
 Monthly cap: 38+ reels in November, Metricool keeps accepting; cap not enforced.
+
+## 2026-11-20 (14-day analytics, 27 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/107 (3.7%, 142 views, 4.7s watch), Delegation 3/109 (2.8%, 157 views), Hard Conversations 3/112 (2.7%); Feeling Stuck 3/135 (2.2%). Best views: Being Wrong 276, Blame 260, Micromanaging 255.
+Bottom 3: Clarity 0 saves (2.9s watch), Giving Credit 0 (3.2s), Multitasking 0 (3.7s); Apologizing 0 saves despite best watch time (7.3s). Complaining (130 views, 2 saves) is a decent early result. "Save this for" CTAs still 0-1 saves. Retention column still empty. Today's Cynicism/Impatience have no data yet.
+Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
+Rules applied: (1) felt-cost everyday struggles (Comfort Zone, Scrolling) with "But" line <=5 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.3s reel, 3-verb action line.
+Note: 11-20 slots (Cynicism, Impatience) were already scheduled, so this run built and scheduled the 11-21 pair.
+Monthly cap: 40+ reels in November, Metricool keeps accepting; cap not enforced.
