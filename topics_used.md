@@ -28,3 +28,4 @@ Stubbornness, Overexplaining (2026-11-19, scheduled 09:00 and 19:30 Dubai; built
 Cynicism, Impatience (2026-11-20, scheduled 09:00 and 19:30 Dubai; built 11-19 because 11-19 slots were already filled)
 Comfort Zone, Scrolling (2026-11-21, scheduled 09:00 and 19:30 Dubai; built 11-20 because 11-20 slots were already filled)
 Motivation, Toxic Positivity (2026-11-22, scheduled 09:00 and 19:30 Dubai; built 11-21 because 11-21 slots were already filled)
+Hustle, Being Late (2026-11-23, scheduled 09:00 and 19:30 Dubai; built 11-22 because 11-22 slots were already filled)

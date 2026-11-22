@@ -184,3 +184,11 @@ Winners share: tension/cost topics with a blunt cost "But" line and "Send this t
 Rules applied: (1) felt-cost everyday struggles (Motivation, Toxic Positivity) with "But" line <=6 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.4s reel, 3-verb action line.
 Note: 11-21 slots (Comfort Zone, Scrolling) were already scheduled, so this run built and scheduled the 11-22 pair.
 Monthly cap: 42+ reels in November, Metricool keeps accepting; cap not enforced.
+
+## 2026-11-22 (14-day analytics, 20 reels)
+Top 3 by (shares+saves)/reach: Conflict 4/107 (3.7%, 142 views, 4.7s watch), Complaining 2/105 (1.9%, 130 views), Silence 2/118 (1.7%, 146 views); Gossip 2/120 (1.7%, 192 views). Best views: Being Wrong 276, Micromanaging 264 (1 save), Blame 262 (1 save).
+Bottom 3: Clarity 0 (2.9s watch), Giving Credit 0 (3.2s), Multitasking 0 (3.7s); Apologizing 0 saves despite best watch time (7.3s). Diwali greeting weakest watch time (2.8s). "Save this for" CTAs (Shortcuts, Being Busy, Low Energy) 0-1 saves. Retention column still empty. Today's Motivation/Toxic Positivity have no data yet.
+Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
+Rules applied: (1) felt-cost everyday struggles (Hustle, Being Late), "But" line <=6 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.4-6.7s reel, 3-verb action line.
+Note: 11-22 slots (Motivation, Toxic Positivity) were already scheduled, so this run built and scheduled the 11-23 pair.
+Monthly cap: 44+ reels in November, Metricool keeps accepting; cap not enforced.
