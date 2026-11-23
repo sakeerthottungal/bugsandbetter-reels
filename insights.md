@@ -192,3 +192,11 @@ Winners share: tension/cost topics with a blunt cost "But" line and "Send this t
 Rules applied: (1) felt-cost everyday struggles (Hustle, Being Late), "But" line <=6 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.4-6.7s reel, 3-verb action line.
 Note: 11-22 slots (Motivation, Toxic Positivity) were already scheduled, so this run built and scheduled the 11-23 pair.
 Monthly cap: 44+ reels in November, Metricool keeps accepting; cap not enforced.
+
+## 2026-11-23 (14-day analytics, 18 reels with data, all published up to 11-20)
+Top 3 by (shares+saves)/reach: Conflict 4/107 (3.7%, 142 views, 4.7s watch), Complaining 2/105 (1.9%, 130 views), Silence 2/118 (1.7%, 146 views); Gossip 2/120 (1.7%, 192 views). Best views: Being Wrong 276, Micromanaging 264, Blame 262.
+Bottom 3: Clarity 0 (2.9s watch), Multitasking 0 (3.7s), Hard People 0 (4.1s); Apologizing 0 saves despite best watch (7.3s). Retention column still empty.
+Winners share: tension/cost topics with a blunt cost "But" line and "Send this to someone who..." CTA; soft-skill team topics and "Save this for" stay weak.
+CRITICAL: Metricool returns "You have reached your Metricool account limit." for every post scheduled 11-20 09:00 through 11-22 19:30 (6 posts, status ERROR). Last published reel was 11-20 19:33. Today's 11-23 pair shows PENDING but will likely fail. No new analytics after 11-20 until the cap resets or the plan is upgraded.
+Rules applied: (1) felt-cost everyday struggles (FOMO, Being Right) with "But" line <=5 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.3s reel, 3-verb action line.
+Note: 11-23 slots (Hustle, Being Late) were already scheduled, so this run built the 11-24 pair.
