@@ -200,3 +200,10 @@ Winners share: tension/cost topics with a blunt cost "But" line and "Send this t
 CRITICAL: Metricool returns "You have reached your Metricool account limit." for every post scheduled 11-20 09:00 through 11-22 19:30 (6 posts, status ERROR). Last published reel was 11-20 19:33. Today's 11-23 pair shows PENDING but will likely fail. No new analytics after 11-20 until the cap resets or the plan is upgraded.
 Rules applied: (1) felt-cost everyday struggles (FOMO, Being Right) with "But" line <=5 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.3s reel, 3-verb action line.
 Note: 11-23 slots (Hustle, Being Late) were already scheduled, so this run built the 11-24 pair.
+
+## 2026-11-24 (14-day analytics, 16 reels with data, all published up to 11-20)
+Top 3 by (shares+saves)/reach: Conflict 4/107 (3.7%, 142 views, 4.7s watch), Complaining 2/105 (1.9%), Silence 2/118 (1.7%); Gossip 2/120 (1.7%, 192 views). Best views: Being Wrong 276, Micromanaging 264, Blame 262.
+Bottom 3: Multitasking 0 (3.7s watch), Hard People 0 (4.1s), Shortcuts 0 / Apologizing 0 (though Apologizing has best watch time 7.3s). Retention column still empty. No new data after 11-20 because every post since then hit "account limit" (ERROR).
+Winners share: people-tension topics (conflict, silence, blame, gossip, being wrong) with a blunt cost "But" line and "Send this to someone who..." CTA; self-help topics and "Save this for" stay weak.
+Rules applied: (1) people-tension leadership topics (Passive Aggression, Bad Mood) with "But" line <=6 words; (2) "Send this to someone who..." CTA only, <40 words, ~6.4s reel.
+CRITICAL: Metricool account limit still blocking all posts scheduled 11-20 through 11-23 (8 ERROR). 11-24 pair is PENDING and will likely fail too. Nothing has been published since 11-20 19:33.
