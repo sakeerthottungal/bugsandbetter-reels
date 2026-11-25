@@ -31,3 +31,4 @@ Motivation, Toxic Positivity (2026-11-22, scheduled 09:00 and 19:30 Dubai; built
 Hustle, Being Late (2026-11-23, scheduled 09:00 and 19:30 Dubai; built 11-22 because 11-22 slots were already filled)
 FOMO, Being Right (2026-11-24, scheduled 09:00 and 19:30 Dubai; built 11-23 because 11-23 slots were already filled)
 Passive Aggression, Bad Mood (2026-11-25, scheduled 09:00 and 19:30 Dubai; built 11-24 because 11-24 slots were already filled)
+Interrupting, Favoritism (2026-11-26, scheduled 09:00 and 19:30 Dubai; built 11-25 because 11-25 slots were already filled)
