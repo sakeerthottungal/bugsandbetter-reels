@@ -33,3 +33,4 @@ FOMO, Being Right (2026-11-24, scheduled 09:00 and 19:30 Dubai; built 11-23 beca
 Passive Aggression, Bad Mood (2026-11-25, scheduled 09:00 and 19:30 Dubai; built 11-24 because 11-24 slots were already filled)
 Interrupting, Favoritism (2026-11-26, scheduled 09:00 and 19:30 Dubai; built 11-25 because 11-25 slots were already filled)
 Ghosting, Office Politics (2026-11-27, scheduled 09:00 and 19:30 Dubai; built 11-26 because 11-26 slots were already filled)
+Meetings, Last-Minute Changes (2026-11-28, scheduled 09:00 and 19:30 Dubai; built 11-27 because 11-27 slots were already filled)
