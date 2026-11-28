@@ -228,3 +228,10 @@ Bottom 3: Multitasking 0/113 (3.7s watch), Apologizing 0/125 (despite best watch
 Winners share: people-tension workplace topics with a short "X is not Y" hook, concrete "It has..." list and "Send this to someone who..." CTA; self-help topics and "Save this for" stay weak.
 Rules applied: (1) everyday workplace-friction topics (Meetings, Last-Minute Changes), "But" line <=7 words; (2) "Send this to someone who..." CTA naming a recognizable coworker habit, ~30 words, ~6.4-6.9s reel.
 CRITICAL: Metricool "account limit" still blocking all posts 11-20 09:00 to 11-26 19:30 (14 ERROR). 11-27 pair PENDING, likely to fail. Nothing published since 11-20 19:33; limit probably resets 1 Dec.
+
+## 2026-11-28 (14-day analytics, 9 reels with data, all published 11-14 to 11-20)
+Top 3 by (shares+saves)/reach: Complaining 2/105 (1.9%, 130 views, 4.9s watch), Gossip 2/120 (1.7%, 192 views, only reel with a share), Micromanaging 1/193 and Blame 1/195 lead on views (264, 262). Silence (1 save/118) and GTS 6 (1/102) close behind.
+Bottom 3: Multitasking 0/113 (3.7s watch), Overpromising 1/110 but weakest watch (3.2s), Ego 1/100 (3.8s). Retention column still empty. Same dataset as the last 7 days: nothing new published.
+Winners share: people-tension workplace topics (gossip, blame, micromanaging) with a short "X is not Y" hook, a concrete "It has..." list and "Send this to someone who..." CTA; self-help topics stay weak.
+Rules applied: (1) team-dynamics topics where a viewer can picture one coworker (Information Hoarding, Cliques), "But" line <=7 words; (2) "Send this to someone who..." CTA, ~30 words, ~6.7-6.9s reel.
+CRITICAL: Metricool "account limit" still blocking all posts 11-20 09:00 to 11-27 19:30 (16 ERROR). 11-28 and 11-29 pairs PENDING, likely to fail until the monthly limit resets (probably 1 Dec).
